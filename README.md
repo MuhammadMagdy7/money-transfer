@@ -25,8 +25,8 @@ A web application that allows management and transfer of funds between accounts.
 ## Technical Requirements
 
 ### Backend
-- **Python** 3.8+
-- **Django** 4.x
+- **Python** 3.10
+- **Django** 5.1.4
 - **Django Rest Framework**
 
 ### Frontend
